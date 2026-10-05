@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1791186407 source:z:\213xx\21318\vasilevda\gitrepo\git\tmp\test\lab2\main.cpp
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1791185090 source:z:\213xx\21318\vasilevda\gitrepo\git\tmp\test\lab2.cpp
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<string>
+
